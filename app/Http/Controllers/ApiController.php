@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Http\Controllers\Controller;
 use App\Models\Canciones;
-use Illuminate\Http\Request;    
+use Illuminate\Http\Request;                                
 
 class ApiController extends Controller
 {
